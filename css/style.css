@@ -1088,8 +1088,8 @@ body .btn-eight:hover {
 }
 .fancy-feature-two .illustration-holder-two .shape-one {
   top: 13%;
-  left: 37.7%;
-  width: 26%;
+  left: 23%;
+  width: 60%;
   z-index: 1;
   animation: jumpThree 4s infinite linear;
 }
